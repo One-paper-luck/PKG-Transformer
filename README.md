@@ -9,7 +9,7 @@ Please download the [features.zip](https://pan.baidu.com/s/1o4m4f5doAtAsRr1Z7tv3
 
 ## Train
 python train.py
-
+$ npm install --global standard-readme-spec
 ## Evaluate
 python test.py
 
