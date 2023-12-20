@@ -8,20 +8,10 @@ To run the code, object features and scene features for the Sydney-Captions data
 Please download the [features.zip](https://pan.baidu.com/s/1o4m4f5doAtAsRr1Z7tv3lw)(code:sdy2) and extract it to `./datasets/Sydney_Captions/features/`.
 
 ## Train
-<details>
-<summary>Linux环境</summary>
-
-##### 编译
-xxxx
-
-##### 安装
-xxxx
-</details>
-
-> python train.py
+```python train.py```
 
 ## Evaluate
-> python test.py
+```python test.py```
 
 # Citation:
 
