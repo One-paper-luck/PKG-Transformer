@@ -1,4 +1,8 @@
 # PKG-Transformer
+<p align="center">
+  <img src="images/PKG-Transformer.tif" alt="PKG-Transformer" width="320"/>
+</p>
+
 
 ## Installation and Dependencies
 Create the `m2` conda environment using the `environment.yml` file:
