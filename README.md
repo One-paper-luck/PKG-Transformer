@@ -15,7 +15,7 @@ python test.py
 
 # Citation:
 
-@ARTICLE{10298250,
+> @ARTICLE{10298250,
   author={Meng, Lingwu and Wang, Jing and Yang, Yang and Xiao, Liang},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
   title={Prior Knowledge-Guided Transformer for Remote Sensing Image Captioning}, 
