@@ -1,6 +1,6 @@
 # PKG-Transformer
 <p align="center">
-  <img src="images/PKG-Transformer.tif" alt="PKG-Transformer" width="320"/>
+  <img src="images/PKG-Transformer.png" alt="PKG-Transformer" width="320"/>
 </p>
 
 
