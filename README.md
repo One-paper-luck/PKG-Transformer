@@ -14,7 +14,7 @@ Please download the [features.zip](https://pan.baidu.com/s/1o4m4f5doAtAsRr1Z7tv3
 ```python test.py```
 
 # Citation:
-
+```
 @ARTICLE{10298250,
   author={Meng, Lingwu and Wang, Jing and Yang, Yang and Xiao, Liang},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
@@ -24,6 +24,7 @@ Please download the [features.zip](https://pan.baidu.com/s/1o4m4f5doAtAsRr1Z7tv3
   number={},
   pages={1-13},
   doi={10.1109/TGRS.2023.3328181}}
+```
 
 ## Reference:
 1. https://github.com/tylin/coco-caption
