@@ -4,11 +4,13 @@
 
 
 ## Data preparation
-Firstly, please download the object features and scene features [features.zip](https://pan.baidu.com/s/1o4m4f5doAtAsRr1Z7tv3lw)(code:sdy2) and extract them to ./datasets/Sydney_Captions/features.
+Firstly, please download the object features and scene features [features.zip](https://pan.baidu.com/s/1o4m4f5doAtAsRr1Z7tv3lw)(code:sdy2) and extract it to ./datasets/Sydney_Captions/features.
 
 ## Train
+python train.py
 
 ## Evaluate
+python test.py
 
 # Citation:
 
