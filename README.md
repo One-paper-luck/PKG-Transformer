@@ -8,14 +8,14 @@ To run the code, object features and scene features for the Sydney-Captions data
 Please download the [features.zip](https://pan.baidu.com/s/1o4m4f5doAtAsRr1Z7tv3lw)(code:sdy2) and extract it to ./datasets/Sydney_Captions/features/.
 
 ## Train
-python train.py
-$ npm install --global standard-readme-spec
+`python train.py`
+
 ## Evaluate
-python test.py
+`python test.py`
 
 # Citation:
 
-‘@ARTICLE{10298250,
+@ARTICLE{10298250,
   author={Meng, Lingwu and Wang, Jing and Yang, Yang and Xiao, Liang},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
   title={Prior Knowledge-Guided Transformer for Remote Sensing Image Captioning}, 
@@ -23,7 +23,7 @@ python test.py
   volume={61},
   number={},
   pages={1-13},
-  doi={10.1109/TGRS.2023.3328181}}’
+  doi={10.1109/TGRS.2023.3328181}}
 
 ## Reference:
 1. https://github.com/tylin/coco-caption
