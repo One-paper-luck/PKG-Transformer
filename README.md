@@ -26,6 +26,6 @@ python test.py
   doi={10.1109/TGRS.2023.3328181}}
 
 ## Reference:
-https://github.com/tylin/coco-caption
-https://github.com/aimagelab/meshed-memory-transformer
-https://github.com/kywen1119/DSRAN
+1. https://github.com/tylin/coco-caption
+2. https://github.com/aimagelab/meshed-memory-transformer
+3. https://github.com/kywen1119/DSRAN
