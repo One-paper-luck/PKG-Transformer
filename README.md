@@ -12,7 +12,7 @@ conda activate m2
 ```
 
 ## Data preparation
-For the evaluation metrics, Please download the [evaluation.zip](https://pan.baidu.com/s/13ZfH-CMYbW3RsW0-RX7KKQ)(BaiduPan code:wuiu) and extract it to `./evaluation`. You can also refer to [M2 Transformer](https://github.com/aimagelab/meshed-memory-transformer).
+For the evaluation metrics, Please download the [evaluation.zip](https://pan.baidu.com/s/13ZfH-CMYbW3RsW0-RX7KKQ)(BaiduPan code:wuiu) and extract it to `./evaluation`. You can also refer to the [M2 Transformer](https://github.com/aimagelab/meshed-memory-transformer).
 
 
 To run the code, object features and scene features for the Sydney-Captions dataset are needed.
