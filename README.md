@@ -6,9 +6,7 @@
 ## Data preparation
 Firstly, put the downloaded features in ./datasets/Sydney_Captions/features.
 
-[Baidu Pan](https://pan.baidu.com/s/1o4m4f5doAtAsRr1Z7tv3lw)
-
-[https://pan.baidu.com/s/1o4m4f5doAtAsRr1Z7tv3lw](code:sdy2)
+[Baidu Pan](https://pan.baidu.com/s/1o4m4f5doAtAsRr1Z7tv3lw)(code:sdy2)
 
 
 ## Train
