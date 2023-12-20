@@ -1,8 +1,8 @@
 # PKG-Transformer
 
 # Data preparation
-Firstly, put the downloaded dataset in ./LEVIR_CC_dataset/.
-链接: https://pan.baidu.com/s/1o4m4f5doAtAsRr1Z7tv3lw 提取码: sdy2
+Firstly, put the downloaded dataset in ./datasets/Sydney_Captions/features.
+
 
 [https://pan.baidu.com/s/1o4m4f5doAtAsRr1Z7tv3lw](code:sdy2)
 
