@@ -13,7 +13,7 @@ conda activate m2
 
 ## Data preparation
 To run the code, object features and scene features for the Sydney-Captions dataset are needed.
-Please download the [features.zip](https://pan.baidu.com/s/1o4m4f5doAtAsRr1Z7tv3lw)(code:sdy2) and extract it to `./datasets/Sydney_Captions/features/`.
+Please download the [features.zip](https://pan.baidu.com/s/1o4m4f5doAtAsRr1Z7tv3lw)(BaiduPan code:sdy2) and extract it to `./datasets/Sydney_Captions/features/`.
 
 ## Train
 ```
