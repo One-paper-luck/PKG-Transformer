@@ -1,7 +1,11 @@
 # PKG-Transformer
 
 ## Installation and Dependencies
-
+Create the `m2` conda environment using the `environment.yml` file:
+```
+conda env create -f environment.yml
+conda activate m2
+```
 
 ## Data preparation
 To run the code, object features and scene features for the Sydney-Captions dataset are needed.
