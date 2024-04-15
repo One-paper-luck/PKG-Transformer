@@ -27,7 +27,7 @@ python train.py
 ```
 python test.py
 ```
-
+vol. 61, pp. 1-13, 2023, Art no. 4706213,
 # Citation:
 ```
 @ARTICLE{10298250,
@@ -36,7 +36,7 @@ python test.py
   title={Prior Knowledge-Guided Transformer for Remote Sensing Image Captioning}, 
   year={2023},
   volume={61},
-  number={},
+  number={4706213},
   pages={1-13},
   doi={10.1109/TGRS.2023.3328181}}
 ```
