@@ -27,7 +27,7 @@ python train.py
 ```
 python test.py
 ```
-vol. 61, pp. 1-13, 2023, Art no. 4706213,
+
 # Citation:
 ```
 @ARTICLE{10298250,
